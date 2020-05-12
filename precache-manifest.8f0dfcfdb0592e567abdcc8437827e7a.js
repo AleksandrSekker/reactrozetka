@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "261393ba688c11aed97a8c29412cdf7b",
+    "revision": "9ae8dc94481feb764894fe6f562ed1c4",
     "url": "/reactrozetka/index.html"
   },
   {
-    "revision": "02e10944c752f021d026",
-    "url": "/reactrozetka/static/css/main.1667466d.chunk.css"
+    "revision": "4e32643219814b7c0ec3",
+    "url": "/reactrozetka/static/css/main.9bc1d254.chunk.css"
   },
   {
     "revision": "de449213f897c949132d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactrozetka/static/js/2.362941c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02e10944c752f021d026",
+    "revision": "4e32643219814b7c0ec3",
     "url": "/reactrozetka/static/js/main.149e76d0.chunk.js"
   },
   {
