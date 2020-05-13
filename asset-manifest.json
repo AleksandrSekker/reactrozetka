@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactrozetka/static/css/main.a9cec056.chunk.css",
+    "main.css": "/reactrozetka/static/css/main.06c85de1.chunk.css",
     "main.js": "/reactrozetka/static/js/main.42143203.chunk.js",
     "main.js.map": "/reactrozetka/static/js/main.42143203.chunk.js.map",
     "runtime-main.js": "/reactrozetka/static/js/runtime-main.34380b09.js",
@@ -8,9 +8,9 @@
     "static/js/2.362941c4.chunk.js": "/reactrozetka/static/js/2.362941c4.chunk.js",
     "static/js/2.362941c4.chunk.js.map": "/reactrozetka/static/js/2.362941c4.chunk.js.map",
     "index.html": "/reactrozetka/index.html",
-    "precache-manifest.fab919db4a626e3ccba1f1d3170f1284.js": "/reactrozetka/precache-manifest.fab919db4a626e3ccba1f1d3170f1284.js",
+    "precache-manifest.2ceb627e8fde7240b956ac26ebbbc489.js": "/reactrozetka/precache-manifest.2ceb627e8fde7240b956ac26ebbbc489.js",
     "service-worker.js": "/reactrozetka/service-worker.js",
-    "static/css/main.a9cec056.chunk.css.map": "/reactrozetka/static/css/main.a9cec056.chunk.css.map",
+    "static/css/main.06c85de1.chunk.css.map": "/reactrozetka/static/css/main.06c85de1.chunk.css.map",
     "static/js/2.362941c4.chunk.js.LICENSE.txt": "/reactrozetka/static/js/2.362941c4.chunk.js.LICENSE.txt",
     "static/media/App.css": "/reactrozetka/static/media/fonedown.a4c28ae0.png",
     "static/media/animation1.png": "/reactrozetka/static/media/animation1.fd5c2156.png",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.34380b09.js",
     "static/js/2.362941c4.chunk.js",
-    "static/css/main.a9cec056.chunk.css",
+    "static/css/main.06c85de1.chunk.css",
     "static/js/main.42143203.chunk.js"
   ]
 }
